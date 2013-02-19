@@ -1,0 +1,45 @@
+DevOps:Getting the basics right
+source:http://m.drdobbs.com/144544/show/063859eaf225d82b6ddfa9c2bef64fa5/
+Author:Scott Ambler
+
+Devops has a lot of stake holders, it has some fundamental components
+Definitions and Basic terms to know before jumping into the subject-
+"Release into production" refers to "release into marketplace"
+"production" refers to "combination of operations and support" - referred to by some people as helpdesk
+"Devops" is a portmanteu word(like a large trunk box which on opening is divided into two parts) for the combination of development and operations
+"Development" - all activities that occur before a solution is released into production
+			- from formulating the initial concept through project initiation through construction to deployment
+"Operations" - includes all post-deployment activities - includes operations and support of deployed solutions
+
+Who are the stakeholders and what they think of DevOps?
+Developers - for them DevOps is a continuous flow of delivery into production, potentially several times a day
+Operations team - for them DevOps is "relationship building" tool with the developers, throughout development lifecycle and once the solution is in production. Internal Operations processes also need to streamlined to collaborate with development teams
+Support team (HelpDesk team) - for them DevOps - they want to work with development team to ensure that their needs are factored in when a solution is released into production. + Post release, they look at DevOps as a effective escalation process to handle change requests(including defects).
+Management - for them DevOps is an effort to increase overall efficiency of the IT department- they think that it is a streamlining tool.
+
+Getting into DevOps
+ IT organizations adopting DevOps need to rethink the underlying principles that guide their decision making; for example, adopting a principle of being more reactive to business will motivate them to adopt ways to release into production more often. Organizations need to adopt practices such as continuous integration, continuous deployment, operational intelligence, collaborative support, and many more that may be new to them if they're going to make a go of DevOps. products, including development tools, business intelligence tools, and operations monitoring tools, that align with the above thought process need to be adopted. Finally, process frameworks such as Disciplined Agile Delivery (DAD), which bake DevOps strategies into the development process, as well as updated versions of ITIL or ITSM,need to be considered.
+
+Wrong IDEAS
+Cloud != DevOps - Cloud technologies can ease out the steps in DevOps, but at the end of the day it is only a tool to achieve a designed and desired solution.
+Tool Driven Messaging != DevOps
+Too much focus on one DevOps stakeholder view point - Development team throwing their weight around
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
