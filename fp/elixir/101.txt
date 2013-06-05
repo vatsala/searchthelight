@@ -1,0 +1,6 @@
+First Point to note is that in this world, we look at data transformation. In the OOP world we look at data encapsulation or data hiding. 
+
+Heart of Functional Programming lies in the idea of transforming data. A function transforms its input into output. 
+Which brings along with itself, a certain amount of unparalleled power.
+
+In essence, programming, now is all about transforming data and not about hiding it behind models.
