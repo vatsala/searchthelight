@@ -4,3 +4,19 @@ Heart of Functional Programming lies in the idea of transforming data. A functio
 Which brings along with itself, a certain amount of unparalleled power.
 
 In essence, programming, now is all about transforming data and not about hiding it behind models.
+
+
+
+Repeat after me - (straight away typed out of the book)
+-----------------------------------
+Object Orientation is not the only way to code.
+Functional programming need not be complex or mathematical
+The foundations of programming are not assignment, if statements and loops #mywholelifeisalie
+Concurrency does not need locks,monitors,semaphores and the like
+Processess are not necessarily expensive resources
+Metaprogramming is not something that just gets tacked onto a language
+Even if it is work, programming should be fun.
+
+
+
+= is a match operator, not an assignment operator
